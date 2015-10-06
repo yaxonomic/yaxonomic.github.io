@@ -294,6 +294,40 @@ table {
     .footer p { margin-top: 2px; }
 
 
+.team-member {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.team-member__container {
+    float: left;
+}
+
+.team-member__container:after {
+    clear: both;
+}
+
+.team-member__name {
+    font-size: 26px;
+    margin-right: 50px;
+    color: #2c3e50;
+}
+
+.team-member__role {
+    font-weight: bold;
+}
+
+.team-member__pic {
+    font-size: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+}
+
+.team-member__pic img {
+    height: 100px;
+}
+
 /* ------------------------------------------------------------------------
 -  Make things responsive. -
 -------------------------------------------------------------------------*/
