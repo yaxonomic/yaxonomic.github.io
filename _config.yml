@@ -1,7 +1,9 @@
 # General
-name: Minimal-Block
-description: "Minimalistic, friendly, responsive."
-url: 
+name: Yaxonomic Capstone Team  (2015-16)
+description: >
+    We are designing a pipeline to assign taxonomy to samples containing
+    arbitrary metagenomic shotgun sequence reads.
+url: # This should remain empty
 
 markdown: redcarpet
 highlighter: pygments
@@ -10,11 +12,12 @@ paginate: 5
 permalink: /:title
 
 # Social share and comments.
-disqus-id: yourusername
-twitter: yourusername
-github: yourusername
-google: +yourusername
+# disqus-id: yourusername
+# twitter: yourusername
+github: yaxonomic
+gitter: yaxonomic/logistics
+# google: +yourusername
 
 # RSS feed
-rss-feed-limit: 10
-rss-show-full: "no"
+# rss-feed-limit: 10
+# rss-show-full: "no"
