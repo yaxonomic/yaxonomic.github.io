@@ -4,4 +4,4 @@ title: Just another about page
 permalink: /about/
 ---
 
-A discussion of the overall problem area and the challenges that developing your system is meant to address. This should be easily accessible by a layman reader. While you should rely on your sponsor's project description, you shouldn't just copy it: You'll have to tell this story many times throughout capstone -- may as well start early.
+The purpose of this project is to develop a piece of software capable of characterizing the biological composition of a sample from the environment. In other words, to determine what microbial species live within a sample when the sample contains a multitude of different species. This problem presents a challenge due to the lage amount of information present within the genetic data used to identify the different species. 
