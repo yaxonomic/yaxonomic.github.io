@@ -3,4 +3,19 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-Specify your development schedule. In the beginning, the schedule for CS476 will give you a basis for determining development phases. As you work more on your project, your schedule will become more customized with richer project-specific milestones.
+<h4>October</h4>
+<ul>
+	<li>15 - Analysis reading 1</li>
+	<li>22 - Technology feasibility</li>
+</ul>
+
+<h4>November</h4>
+<ul>
+	<li>5 - Requirements draft, analysis reading 2</li>
+	<li>12 - Design review 1</li>
+</ul>
+
+<h4>December</h4>
+<ul>
+	<li>10 - Requirements final draft, analysis reading 3</li>
+</ul>
