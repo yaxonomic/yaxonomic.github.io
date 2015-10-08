@@ -1,19 +1,19 @@
-- name: Example Person
-  role: The role
+- name: Even Bolyen
+  role: Quality assurance
   bio: >
     Some summary of example person.
 
-- name: Example Person
-  role: The role
+- name: Mike Deburg
+  role: Communications coordinator
   bio: >
     Some summary of example person.
 
-- name: Example Person
-  role: The role
+- name: Andrew Hodel
+  role: Note taker
   bio: >
     Some summary of example person.
 
-- name: Example Person
-  role: The role
+- name: Hayden Westbrook
+  role: Team leader
   bio: >
-    Some summary of example person.
+    Senior computer science major.
