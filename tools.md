@@ -2,6 +2,7 @@
 layout: page
 title: Tools
 permalink: /tools/
+rel: ..
 ---
 Languages:
 <ul>
