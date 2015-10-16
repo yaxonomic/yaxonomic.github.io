@@ -2,6 +2,7 @@
 layout: page
 title: Requirements
 permalink: /requirements/
+rel: ..
 ---
 Functional Requirements
 <ul>

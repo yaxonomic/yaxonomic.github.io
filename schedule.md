@@ -2,6 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
+rel: ..
 ---
 <h4>October</h4>
 <ul>

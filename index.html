@@ -1,5 +1,6 @@
 ---
 layout: default
+rel: .
 ---
 
 <section class="main-content">
@@ -9,7 +10,7 @@ layout: default
             <div class='team-member'>
                 <div class='team-member__pic'>
                 {% if person.pic %}
-                    <img src='/assets/team/{{person.pic}}' />
+                    <img src='{{{ page.rel }}}/assets/team/{{person.pic}}' />
                 {% else %}
                     <i class='fa fa-user'></i>
                 {% endif %}
@@ -27,7 +28,7 @@ layout: default
         <h2>Project Sponser/Mentor</h2>
         <div class='team-member'>
             <div class='team-member__pic'>
-                <img src='/assets/team/fofonav.png' />
+                <img src='{{ page.rel }}/assets/team/fofonav.png' />
             </div>
             <div class='team-member__container'>
                 <div class='team-member__name'>Viacheslav Fofanov, Ph.D.</div>
