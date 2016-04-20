@@ -1,17 +1,20 @@
 - name: Evan Bolyen
   role: Quality assurance
   bio: >
-    Some summary of example person.
+    Computer Science Major.
+  pic: RainbowThor.png
 
 - name: Mike Deberg
   role: Communications coordinator
   bio: >
-    Some summary of example person.
+    Computer Science Major.
+  pic: BrockSamson.png
 
 - name: Andrew Hodel
   role: Note taker
   bio: >
-    Some summary of example person.
+    Computer Science Major.
+  pic: JohnnyBravo.png
 
 - name: Hayden Westbrook
   role: Team leader
